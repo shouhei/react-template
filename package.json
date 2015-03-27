@@ -1,0 +1,17 @@
+{
+  "name": "dev-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-webpack": "^1.1.2",
+    "jsx-loader": "^0.12.2",
+    "rimraf": "^2.2.8"
+  },
+  "author": "",
+  "license": "ISC"
+}
